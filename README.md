@@ -112,8 +112,7 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
 </table>
 <h2>GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api??username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </p>
 <h2>Connect With Me</h2>
 <p align="center">
